@@ -1,1 +1,1 @@
-open /pages, there is index. this file is the starting point
+open /pages, there is index.php this file is the starting point
